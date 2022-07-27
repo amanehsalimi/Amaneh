@@ -18,5 +18,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv = findViewById(R.id.tv);
         tv.setText(new Date().toString());
+
+
+
     }
 }
